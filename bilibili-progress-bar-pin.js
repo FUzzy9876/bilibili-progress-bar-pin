@@ -6,8 +6,9 @@
 // @author       somenothing
 // @homepage     https://github.com/somenothing/bilibili-progress-bar-pin
 // @supportURL   https://github.com/somenothing/bilibili-progress-bar-pin/issues
-// @match        http://www.bilibili.com/video/*
-// @match        https://www.bilibili.com/video/*
+// @updateURL    https://raw.githubusercontent.com/somenothing/bilibili-progress-bar-pin/main/bilibili-progress-bar-pin.js
+// @downloadURL  https://raw.githubusercontent.com/somenothing/bilibili-progress-bar-pin/main/bilibili-progress-bar-pin.js
+// @match        *://*.bilibili.com/video/*
 // @icon         https://www.bilibili.com/favicon.ico
 // @grant        none
 // ==/UserScript==
